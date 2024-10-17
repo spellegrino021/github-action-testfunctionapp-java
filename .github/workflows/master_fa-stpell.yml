@@ -52,4 +52,5 @@ jobs:
           slot-name: 'Production'
           package: '${{ env.PACKAGE_DIRECTORY }}'
           respect-pom-xml: true
+          sku: 'flexconsumption'
           
